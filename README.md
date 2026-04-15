@@ -1,5 +1,5 @@
 # Hi there, I'm Noushin 👋
-🎓 Student at UB SUNY (University at Buffalo)
+🎓 Student at University at Buffalo SUNY (State University of New York)  
 🛠️ Explorer, coder, and lifelong learner
 
 ## About Me
@@ -20,6 +20,8 @@
 ##
 “I want to learn, I want to explore from scratch.”
 
-
-
+## 📫 Connect with me
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:noushin.hasan10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atika01)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/nousheen_t.t/)
 
