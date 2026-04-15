@@ -1,16 +1,25 @@
-## Hi there, I am Noushin 👋
+# Hi there, I'm Noushin 👋
+🎓 Student at UB SUNY (University at Buffalo)
+🛠️ Explorer, coder, and lifelong learner
 
-<!--
-**atikanoushin/atikanoushin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning about computer engineering fundamentals and hardware structures
+- 💻 Coding in Python, Java, C/C++, Git, learning JavaScript
+- 📚 Frameworks using: PyTorch, PyGame, Django, Pandas, JavaFx, always eager to expand my tech tools
+- 🕵️‍♂️ My mission: To learn and explore the opportunities that come my way
 
-Here are some ideas to get you started:
+## 🧑‍💻Projects
+- Game Engine
+- Card Game
 
-- 🎓 Computer Engineering @ University at Buffalo  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨Fun fact:
+- I love electronics, crafting and seweing random bengali design on dress!
+- Into cooking also: love to bake, try popular dishes around the world.
+- constantly pushing the bounderies of what i can build
+
+##
+“I want to learn, I want to explore from scratch.”
+
+
+
+
