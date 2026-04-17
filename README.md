@@ -4,7 +4,7 @@
 
 ## 🚀About Me
 - 🌱 I’m currently learning about computer engineering fundamentals and hardware structures
-- 💻 Coding in Python, Java, C/C++, Git, learning JavaScript
+- 💻 Coding in Python, Java, C/C++, Git, know a little bit of JavaScript
 - 📚 Frameworks using: PyTorch, PyGame, Django, Pandas, JavaFx, always eager to expand my tech tools
 - 🕵️‍♂️ My mission: To learn and explore the opportunities that come my way
 
