@@ -6,7 +6,7 @@
 -  Coding in Python, Java, C/C++, Git, know a little bit of JavaScript
 -  Frameworks using: PyTorch, PyGame, Django, Pandas, JavaFx, always eager to expand my tech tools
 
-## 📫 Connect with me
+## Connect with me
 <p align="left">
   <a href="mailto:noushin.hasan10@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
