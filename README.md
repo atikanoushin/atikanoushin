@@ -1,14 +1,21 @@
 # Hi there, I'm Noushin 👋
-🎓 Student at University at Buffalo SUNY (State University of New York)  
-🛠️ Explorer, coder, and lifelong learner
+🎓 Currently student at University at Buffalo SUNY (State University of New York)  
 
 ## About Me
--  I’m currently learning about computer engineering fundamentals and hardware structures
+-  learning about computer engineering fundamentals and hardware structures
 -  Coding in Python, Java, C/C++, Git, know a little bit of JavaScript
 -  Frameworks using: PyTorch, PyGame, Django, Pandas, JavaFx, always eager to expand my tech tools
 
 ## 📫 Connect with me
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:noushin.hasan10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atika01)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/nousheen_t.t/)
+<p align="left">
+  <a href="mailto:noushin.hasan10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/atika01">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nousheen_t.t/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
