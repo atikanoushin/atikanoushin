@@ -1,4 +1,4 @@
-# Hi there, I'm Noushin 👋
+# Hi there, I'm Nousheen 👋
 🎓 Currently student at University at Buffalo SUNY (State University of New York)  
 
 ## About Me
